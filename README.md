@@ -1,5 +1,5 @@
 # WaveSeabedReference
-Some reference codes for interactions with the wave seabed
+Some reference codes for interactions with wave and seabed
 
 Here are some simple codes related to the interaction between wave and seabed, which will be updated from time to time. 
 
