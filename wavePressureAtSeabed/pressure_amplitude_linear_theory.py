@@ -2,9 +2,9 @@ import numpy as np
 from scipy.optimize import fsolve
 
 # 从外部获取输入
-T = float(input("请输入波周期T："))
-d = float(input("请输入水深d："))
-H = float(input("请输入波高H："))
+T = float(input("input wave period T:"))
+d = float(input("input water depth d:"))
+H = float(input("input wave height H:"))
 
 # 重力加速度，水容重
 g = 9.81
